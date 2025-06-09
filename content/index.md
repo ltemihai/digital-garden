@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: LTE Digital Garden
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the place where I write, where I smile, where I cry.
+This is my interface. The interface to you.
